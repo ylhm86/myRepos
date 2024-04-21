@@ -1,0 +1,13 @@
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/pages/Navigation/NavigationPage.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/utilities/BrowserUtils.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/utilities/ConfigurationReader.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/utilities/BasePage.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/step_definitions/LoginStepDefinitions.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/utilities/Pages.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/step_definitions/Hook.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/step_definitions/TaskStepDefinitions.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/utilities/Driver.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/pages/login_navigation/LoginPage.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/runners/CukesRunner.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/step_definitions/NavigationStepDefinitions.java
+/Users/emineyildirim/IdeaProjects/Btrix24OnlineAutomation/src/test/java/com/cybertek/pages/activity_stream/TasksPage.java
